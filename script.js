@@ -31,7 +31,7 @@ function showdata(arr){
         const wishlistBtn = document.createElement("button");
         wishlistBtn.textContent = "Add to Wishlist";
 
-        const cartBtn = document.createElement("button");
+        const cartBtn = document.createElement("buttonone");
         cartBtn.textContent = "Add to Cart";
 
         btnGroup.append(wishlistBtn, cartBtn);

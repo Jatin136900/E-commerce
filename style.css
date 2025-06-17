@@ -75,6 +75,18 @@ section {
 
 .button-group button {
     padding: 0.3rem 0.6rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+
+
+.button-group buttonone {
+    padding: 0.3rem 0.6rem;
     background-color: #ff3c78;
     color: white;
     border: none;
